@@ -1,1 +1,0 @@
-# NIC-Cloud-Native-App
